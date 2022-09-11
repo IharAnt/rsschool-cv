@@ -60,6 +60,6 @@ Information technologies for management
 4. JS, CSS, HTML, Git video courses on YouTube and documentation
 
 ### Language:
-Russian - Native
-Belarusian - Native
-English - A2
+- Russian - Native
+- Belarusian - Native
+- English - A2
